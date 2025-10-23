@@ -211,24 +211,4 @@ python tools/quick_api_discovery.py
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/aster-python-sdk/issues)
-- **Documentation**: [Complete Guide](docs/ASTER_SDK_COMPLETE_GUIDE.md)
-- **Examples**: [Examples Directory](examples/)
-
-## 🎯 What Makes This SDK Special
-
-- **Professional Grade** - Production-ready trading tools
-- **Complete Feature Set** - Everything you need for trading
-- **Real-time Data** - Live market data from 208+ pairs
-- **Advanced Analytics** - Technical analysis and market scanning
-- **Automation Ready** - Trading bots and automated strategies
-- **Risk Management** - Professional risk assessment tools
-- **Comprehensive Documentation** - Complete guides and examples
-
-**Ready for professional trading and development!** 🚀
