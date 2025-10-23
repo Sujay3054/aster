@@ -1,0 +1,23 @@
+{
+  "api_key": "",
+  "secret_key": "",
+  "account_address": "",
+  "base_url": "https://fapi.asterdex.com",
+  "testnet": false,
+  "description": "Aster SDK Configuration File",
+  "instructions": [
+    "1. Copy this file to config.json",
+    "2. Fill in your API credentials",
+    "3. Set testnet to true if using testnet",
+    "4. Keep your credentials secure and never commit them to version control"
+  ],
+  "endpoints": {
+    "mainnet": "https://fapi.asterdex.com",
+    "testnet": "https://testnet-api.asterdex.com"
+  },
+  "rate_limits": {
+    "requests_per_minute": 2400,
+    "orders_per_minute": 1200,
+    "orders_per_second": 300
+  }
+}
